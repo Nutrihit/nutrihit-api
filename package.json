@@ -1,0 +1,26 @@
+{
+  "name": "nutrihit-api",
+  "version": "1.0.0",
+  "description": "API for nutrihit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nutrihit/nutrihit-api.git"
+  },
+  "author": "Nutrihit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nutrihit/nutrihit-api/issues"
+  },
+  "homepage": "https://github.com/Nutrihit/nutrihit-api#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.13"
+  }
+}
